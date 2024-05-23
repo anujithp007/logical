@@ -1,7 +1,6 @@
-function printPattern() {
-    let n = 6; 
+function printPattern(n) {
+     
 
-   
     console.log('*');
 
     
@@ -39,4 +38,4 @@ function printPattern() {
     console.log('*');
 }
 
-printPattern();
+printPattern(8);
